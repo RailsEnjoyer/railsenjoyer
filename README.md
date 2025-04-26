@@ -1,83 +1,39 @@
-<h1 align="center">Hi there 👋, I'm Bogdan Davidovich</h1>
+<h1 align="center">Hi, I'm Bogdan 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=150&section=header&text=RailsEnjoyer&fontSize=40&fontAlign=center&animation=fadeIn" alt="header"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Ruby+on+Rails+Developer;Clean+Architecture+Enthusiast;Product-Oriented+Mindset;Fast+Learner" alt="Typing SVG" />
+---
+
+### About Me
+
+- 🛠 Ruby on Rails Developer
+- 🎯 Focused on clean code, scalability, and pragmatic solutions
+- 📚 Always learning and improving
+- 🌍 Based in Warsaw, Poland
+- ✉️ Contact: [r3ka1to@gmail.com](mailto:r3ka1to@gmail.com)
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📍 About Me
+### GitHub Stats
 
-- 💻 Ruby on Rails Developer with **1+ year of enterprise experience**.
-- 🧠 Focused on writing **clean, maintainable, scalable code**.
-- 🛠️ Practicing **OOP, MVC**, and adhering to **SOLID & GRASP** principles.
-- 🚀 Passionate about backend systems, APIs, system design, and automation.
-- 🌱 Constant learner: studying best practices, system architectures, new frameworks.
-- 🎯 Product-oriented: care about business goals, user needs, and long-term maintainability.
-- 🤝 Open to collaborating on impactful projects with a strong, growth-minded team.
-
----
-
-### 🛠️ Tech Stack
-
-**Backend**  
-Ruby on Rails · PostgreSQL · MySQL · SQLite3 · REST API · Sidekiq · WebSockets
-
-**Frontend**  
-HTML · CSS/SCSS · React · Hotwire (learning)
-
-**Testing**  
-RSpec · Capybara · Unit Testing
-
-**Tools & Platforms**  
-Git (Terminal, GitHub, GitLab, GitKraken) · RubyMine · VSCode · Sublime Text  
-Ubuntu · macOS · Windows
-
----
-
-### 🚀 Recent Experience
-
-**Junior Developer** (December 2023 – February 2024)  
-_**Internal Automation Platform for Podcast Creators**_
-
-- Built backend features for scheduling and publishing episodes via REST API.
-- Integrated Google APIs and RSS feed parsing for syncing metadata.
-- Developed admin panels in Rails and updated React components for analytics.
-- Wrote optimized SQL queries and background jobs with Sidekiq.
-- Participated in code reviews, feature planning, and backend reliability improvements.
-
----
-
-### 📖 Education & Learning Journey
-
-- 🎓 College of Business and Law (ITS), Minsk — Information Technology Software
-- 🏆 RubyRush by GoodProgrammer — Ruby fundamentals course
-- 📚 Key books read:
-  - "Everyday Testing with RSpec"
-  - "The Ruby Way, Second Edition"
-  - "Pro Git" by Scott Chacon & Ben Straub
-- 🎯 Completed "Introduction to Git" course by Hexlet
-
----
-
-### 🧩 Fun Facts About Me
-
-- ♟️ Chess player: love strategic thinking both on the board and in code.
-- 🏒 Ice Hockey fan and amateur gym-goer.
-- 🚗 Passionate about cars and technology.
-- 📖 Bookworm: enjoy exploring software craftsmanship and real-world system design.
-
----
-
-### 📫 How to reach me
-
-- 📍 Based in Warsaw, Poland
-- 📬 r3ka1to@gmail.com
-- 💬 Telegram: [@Hakkimarui](https://t.me/Hakkimarui)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RailsEnjoyer&show_icons=true&theme=react&hide_border=true&hide_title=true" alt="Bogdan's GitHub Stats" />
+</p>
 
 ---
 
