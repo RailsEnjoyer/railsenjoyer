@@ -14,7 +14,7 @@
 
 * 🚀 I'm currently focused on **Ruby on Rails** and **React** ecosystems.
 * 💡 I love building products that solve real-world problems and writing clean, maintainable code.
-* 🎯 **Current Goal**: Leveling up to solid Middle Full-Stack and contributing to international projects.
+* 🎯 **Current Goal**: Leveling up to solid Full-Stack developer and contributing to international projects.
 * 💬 Ask me about: **Ruby, Rails, REST APIs, PostgreSQL**.
 
 ---
